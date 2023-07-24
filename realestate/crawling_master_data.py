@@ -23,7 +23,7 @@ def replace_str_int(input_list):
 
 # %%
 # set chrome driver and master data folder path
-chrome_driver_path = 'C:/Users/scatt/Python/selenium/chromedriver.exe' # abspath로 입력해야함
+chrome_driver_path = 'C:\Users\teamo\OneDrive\바탕 화면\program'
 output_path = 'output'
 os.makedirs(output_path, exist_ok=True)
 
